@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "git@github.com:JonyE/webpack-example.git",
   "author": "Eugene Batrak",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
