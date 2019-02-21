@@ -1,0 +1,8 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JonyE/webpack-example.git",
+  "author": "Eugene Batrak",
+  "license": "MIT"
+}
